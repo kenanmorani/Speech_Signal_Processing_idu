@@ -2,7 +2,7 @@
 %% Plotting Spectrogram of speech signal 
 
 % x represent the 'speech_signal' signal imported to matlab through import data bottun, 
-% fs is the sampling frequency of the speech)sound - fs=44100Hz
+% fs is the sampling frequency of the speech_sound - fs=44100Hz
 x=data;
 
 % Choosing the window size and the skip size
