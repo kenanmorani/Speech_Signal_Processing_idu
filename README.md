@@ -1,5 +1,5 @@
 # Introduction 
-The codes are related to speech processing.
+The codes ainvolve speech processing, dedicated to assignments and final project at Izmir Democracy Uniersity.
 
 # The Codes:
 ### Windowing_FastFourierTransform_Spectrogram_of_speech_signal.ipynb 
